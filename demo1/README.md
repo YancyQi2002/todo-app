@@ -1,6 +1,9 @@
 # todo-app
 
+按照峰华前端工程师的视频教程完成的一个Todo-app Demo
+
 ## Project setup
+
 ```
 yarn install
 ```
